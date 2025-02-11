@@ -12,35 +12,18 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
 
     private void Start()
     {
-        SkillButton = GameObject.FindGameObjectWithTag("Zorba").GetComponent<Button>();
-        parentObject = gameObject.transform.parent.gameObject;
-        SkillButton.onClick.AddListener(() =>
+        if (photonView.IsMine) // Sadece yerel oyuncu için
         {
-            kill();
-        });
+            SkillButton = GameObject.FindGameObjectWithTag("Zorba").GetComponent<Button>();
+            SkillButton.onClick.AddListener(kill);
+        }
+
+        parentObject = gameObject.transform.parent.gameObject;
     }
-
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    Debug.Log("oncollisionenter calisti");
-    //    if (collision.gameObject.CompareTag("Player")) 
-    //    {
-    //        targetPlayer = collision.gameObject;
-    //    }
-    //}
-
-    //private void OnCollisionStay2D(Collision2D collision)
-    //{
-    //    Debug.Log("oncollisiyonStay calisti");
-    //    if (collision.gameObject.CompareTag("Player"))
-    //    {
-    //        targetPlayer = collision.gameObject;
-    //    }
-    //}
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Yakinlik")) 
+        if (collision.gameObject.CompareTag("Yakinlik"))
         {
             targetPlayer = collision.gameObject.transform.parent.gameObject;
         }
@@ -48,7 +31,7 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Yakinlik")) 
+        if (collision.gameObject.CompareTag("Yakinlik"))
         {
             targetPlayer = null;
         }
@@ -56,25 +39,28 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
 
     void Update()
     {
-        if (targetPlayer!= null)
+        if (!photonView.IsMine) return; // Diğer istemcilerde giriş kontrolünü atla
+
+        if (targetPlayer != null)
             target = targetPlayer.transform.position;
 
-        // Zorba davranışları
-        if (Input.GetKeyDown(KeyCode.LeftShift)) // Örnek bir tuş
+        if (Input.GetKeyDown(KeyCode.LeftShift)) // Sadece yerel istemci için giriş kontrolü
         {
             kill();
         }
     }
 
-    public void kill() 
+    public void kill()
     {
+        if (targetPlayer == null) return;
+
         targetPlayer.layer = 1;
-        switch (Mathf.Sign(target.x - transform.position.x)) 
+        switch (Mathf.Sign(target.x - transform.position.x))
         {
             default:
                 break;
             case -1:
-                switch (Mathf.Sign(target.y - transform.position.y)) 
+                switch (Mathf.Sign(target.y - transform.position.y))
                 {
                     default:
                         break;
@@ -122,29 +108,5 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
                 }
                 break;
         }
-
-    //    if (target.x > transform.position.x && target.y > transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x+1,target.y+1,transform.position.z);
-
-    //    if (target.x > transform.position.x && target.y < transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x + 1, target.y - 1,transform.position.z);
-
-    //    if (target.x < transform.position.x && target.y > transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x - 1, target.y + 1, transform.position.z);
-
-    //    if (target.x < transform.position.x && target.y < transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x - 1, target.y - 1, transform.position.z);
-
-    //    if (target.x == transform.position.x && target.y > transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(transform.position.x, target.y + 1, transform.position.z);
-
-    //    if (target.x == transform.position.x && target.y < transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(transform.position.x, target.y - 1, transform.position.z);
-
-    //    if (target.x > transform.position.x && target.y == transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x + 1, transform.position.y, transform.position.z);
-
-    //    if (target.x < transform.position.x && target.y == transform.position.y)
-    //        gameObject.transform.parent.gameObject.transform.position = new Vector3(target.x - 1, transform.position.y, transform.position.z);
     }
 }

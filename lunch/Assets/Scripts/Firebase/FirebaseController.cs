@@ -321,24 +321,6 @@ public class FirebaseController : MonoBehaviour
     }
 
     private bool isSigned = false;
-    
-    //private void Update()
-    //{
-    //    if (isSignIn)
-    //    {
-    //        if (!isSigned)
-    //        {
-    //            isSigned = true;
-    //            profileUserName_Text.text = "" + user.DisplayName;
-    //            profileUserEmail_Text.text = "" + user.Email;
-    //            OpenProfilePanel();
-    //            if (user.IsEmailVerified)
-    //            {
-    //                StartButton.GetComponent<Button>().interactable = true;
-    //            }
-    //        }
-    //    }
-    //}
 
     public void LoadLobbyScene()
     {

@@ -11,6 +11,7 @@ public class CreateAndJoin : MonoBehaviourPunCallbacks
 {
     public TMP_InputField input_Create;
     public TMP_InputField input_Join;
+    public TMP_Text playerListText; // UI'da oyuncu listesini gösterecek Text nesnesi
 
     public void CreateRoom()
     {
@@ -31,6 +32,27 @@ public class CreateAndJoin : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         PhotonNetwork.LoadLevel("GamePlay");
-        print(PhotonNetwork.CountOfPlayersInRooms);
+        UpdatePlayerList(); // Odaya girince oyuncu listesini güncelle
+    }
+
+    public override void OnPlayerEnteredRoom(Player newPlayer)
+    {
+        UpdatePlayerList(); // Yeni biri katıldığında listeyi güncelle
+    }
+
+    public override void OnPlayerLeftRoom(Player otherPlayer)
+    {
+        UpdatePlayerList(); // Biri ayrıldığında listeyi güncelle
+    }
+
+    private void UpdatePlayerList()
+    {
+        if (playerListText == null) return;
+
+        playerListText.text = "Players in Room:\n";
+        foreach (var player in PhotonNetwork.PlayerList)
+        {
+            playerListText.text += player.NickName + "\n"; // Oyuncu adlarını ekliyoruz
+        }
     }
 }

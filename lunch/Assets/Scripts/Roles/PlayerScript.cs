@@ -16,7 +16,7 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     void Start()
     {
         PlayerRoleText = GameObject.FindGameObjectWithTag("RoleUI").GetComponent<TMP_Text>();
-        zorbaGameObjets = GameObject.FindGameObjectsWithTag("Zorba").ToList();
+        zorbaGameObjets = GameObject.FindGameObjectsWithTag("Bully").ToList();
         AssignRole();
     }
 
@@ -24,7 +24,7 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     {
         if (role == PlayerRole.Zorba)
         {
-            PlayerRoleText.text = "Zorba";
+            PlayerRoleText.text = "Bully";
             bullyBehavior.enabled = true;
             foreach (GameObject obj in zorbaGameObjets) 
             {
@@ -33,7 +33,7 @@ public class PlayerScript : MonoBehaviourPunCallbacks
         }
         else 
         {
-            PlayerRoleText.text = "Ogrenci";
+            PlayerRoleText.text = "Student";
             bullyBehavior.enabled=false;
             foreach (GameObject obj in zorbaGameObjets) 
             {

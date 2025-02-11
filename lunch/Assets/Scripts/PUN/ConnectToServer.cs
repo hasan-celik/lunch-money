@@ -1,7 +1,5 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using Photon.Pun;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ConnectToServer : MonoBehaviourPunCallbacks
@@ -18,7 +16,11 @@ public class ConnectToServer : MonoBehaviourPunCallbacks
 
     public override void OnJoinedLobby()
     {
+        Invoke("LoadMenuScene", 2f); // 2 saniye sonra LoadMenuScene() fonksiyonunu çağır
+    }
+
+    private void LoadMenuScene()
+    {
         SceneManager.LoadScene("Menu");
     }
 }
-

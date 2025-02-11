@@ -19,7 +19,7 @@ public class CameraController : MonoBehaviourPunCallbacks
         }
     }
 
-    private void Update()
+    private void LateUpdate()
     {
         if ((SceneManager.GetActiveScene().name == "GamePlay" || SceneManager.GetActiveScene().name == "Lobby") && photonView.IsMine)
         {

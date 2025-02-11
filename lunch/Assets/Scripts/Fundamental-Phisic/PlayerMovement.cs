@@ -9,11 +9,16 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
     public GameObject mark;
 
     [SerializeField] private Animator _animator;
-    
+
+    [SerializeField] private SpriteRenderer _spriteRenderer;
+    [SerializeField] private AudioSource _audioSource;
+
     private void Start()
     {
         MoveAction.Enable();
         _animator = GetComponent<Animator>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
+        _audioSource = GetComponent<AudioSource>();
     }
     
     void FixedUpdate()
@@ -33,6 +38,17 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
         else
         {
             _animator.SetInteger("Mode", 0);
+            _audioSource.Play();
+        }
+
+        if (GetComponent<PhotonView>().IsMine && Keyboard.current.aKey.IsPressed())
+        {
+            _spriteRenderer.flipX = true;
+        }
+
+        if (GetComponent<PhotonView>().IsMine && Keyboard.current.dKey.IsPressed())
+        {
+            _spriteRenderer.flipX = false;
         }
     }
 }
