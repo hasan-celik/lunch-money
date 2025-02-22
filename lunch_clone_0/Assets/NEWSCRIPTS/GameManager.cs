@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public List<GameObject> zorbalar;
     public List<GameObject> Ogrenciler;
     public List<GameObject> oluler;
+    public List<GameObject> canli;
     
     public GameObject winCanvas;
     public GameObject loseCanvas;
@@ -94,10 +95,28 @@ public class GameManager : MonoBehaviourPunCallbacks
                 {
                     Ogrenciler.Remove(p);
                 }
+                
+                if (canli.Contains(p))
+                {
+                    canli.Remove(p);
+                }
 
                 if (!oluler.Contains(p))
                 {
                     oluler.Add(p);
+                }
+            }
+            
+            if(p.GetComponent<PlayerScript>().role == PlayerRole.Student || p.GetComponent<PlayerScript>().role == PlayerRole.Bully)
+            {
+                if (oluler.Contains(p))
+                {
+                    oluler.Remove(p);
+                }
+                
+                if (!canli.Contains(p))
+                {
+                    canli.Add(p);
                 }
             }
         }

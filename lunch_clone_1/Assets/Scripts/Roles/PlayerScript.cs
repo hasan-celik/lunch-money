@@ -21,6 +21,8 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     private int bully1;
     private int bully2;
     
+    public int voteCount = 0;
+    
     void Start()
     {
         PlayerRoleText = GameObject.FindGameObjectWithTag("RoleUI").GetComponent<TMP_Text>();
@@ -102,5 +104,25 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     public void setColor(float r, float g, float b, float a)
     {
         photonView.RPC("PlayerColor", RpcTarget.All, r, g, b, a);
+    }
+    
+    [PunRPC]
+    public void vote()
+    {
+        voteCount++;
+    }
+
+    [PunRPC]
+    public void voting()
+    {
+        vote();
+    }
+
+
+    
+    [PunRPC]
+    public void resetVote()
+    {
+        voteCount = 0;
     }
 }

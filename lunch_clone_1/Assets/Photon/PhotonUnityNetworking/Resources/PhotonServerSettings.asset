@@ -73,6 +73,12 @@ MonoBehaviour:
   - PlayerColor
   - setColor
   - ActivateTextAndDisableButton
+  - RegisterVote
+  - CreateVoteButtons
+  - vote
+  - voting
+  - skipButton
+  - resetVote
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

@@ -1057,6 +1057,7 @@ MonoBehaviour:
   bullyImage: {fileID: 21300000, guid: 645fcb3dcb0b20e45998edba144916b8, type: 3}
   studentImage: {fileID: 21300000, guid: 840acb3392a51a044b1e00ff92635dc6, type: 3}
   zorbaGameObjects: []
+  voteCount: 0
 --- !u!95 &3423488642098208918
 Animator:
   serializedVersion: 5
