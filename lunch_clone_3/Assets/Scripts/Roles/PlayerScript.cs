@@ -8,6 +8,8 @@ using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviourPunCallbacks
 {
+    private GameObject deadPlayerBell;
+    
     public PlayerRole role;
     [SerializeField] private BullyBehavior bullyBehavior;
     [SerializeField] private TMP_Text PlayerRoleText;
@@ -91,6 +93,10 @@ public class PlayerScript : MonoBehaviourPunCallbacks
 
     public void onPlayerDeath()
     {
+        if (deadPlayerBell == null)
+        {
+            deadPlayerBell = PhotonNetwork.Instantiate("deadPlayerBell",gameObject.transform.position,gameObject.transform.rotation);
+        }
         photonView.RPC("Death", RpcTarget.All);
     }
     

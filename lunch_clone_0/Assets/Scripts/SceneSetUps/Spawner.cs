@@ -121,9 +121,26 @@ public class Spawner : MonoBehaviourPunCallbacks
 
     private void Update()
     {
-        if (_slider == null)
+        baslangic:
+        if (_slider == null && canvas != null)
         {
-            _slider = GameObject.FindGameObjectWithTag("Slider");
+            try
+            {
+                _slider = GameObject.FindGameObjectWithTag("Slider");
+            }
+            catch (Exception e)
+            {
+                if (PhotonNetwork.IsConnected && PhotonNetwork.LocalPlayer != null)
+                {
+                    if (photonView.IsMine)
+                    {
+                        PhotonNetwork.Instantiate("Slider", new Vector3(20, 1060, 0), Quaternion.identity);
+                    }
+                }
+                Console.WriteLine(e);
+                goto baslangic;
+                throw;
+            }
             _slider.transform.SetParent(canvas.transform);
         }
 

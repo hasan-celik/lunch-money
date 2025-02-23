@@ -21,8 +21,8 @@ public class PlayerTasks : MonoBehaviourPunCallbacks
             foreach (GameObject task in assignedObjects)
             {
                 task.tag = "task";
-                task.GetComponent<SpriteRenderer>().color = gameObject.GetComponent<Renderer>().material.color;
-                task.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<Renderer>().material.color;
+                task.GetComponent<SpriteRenderer>().color = Color.green;
+                task.GetComponentInChildren<SpriteRenderer>().color = Color.green;
                 //task.GetComponent<TaskTrigger>().enabled = true;
             }
         }

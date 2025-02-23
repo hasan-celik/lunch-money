@@ -98,6 +98,7 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
                         break;
                     case -1:
                     {
+                        // PhotonNetwork.Instantiate("deadPlayerBell",target,targetPlayer.transform.rotation);
                         parentObject.transform.position = new Vector3(target.x - 1, target.y - 1, target.z);
                         targetPlayer.GetComponent<PhotonView>().RPC("SetRole", RpcTarget.All, PlayerRole.Dead);
                         targetPlayer.GetComponent<PlayerScript>().onPlayerDeath();

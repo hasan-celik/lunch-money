@@ -50,6 +50,15 @@ public class GameManager : MonoBehaviourPunCallbacks
     {
         foreach (GameObject p in players)
         {
+            if (p == null)
+            {
+                players.Remove(p);
+                zorbalar.Remove(p);
+                Ogrenciler.Remove(p);
+                oluler.Remove(p);
+                canli.Remove(p);
+            }
+            
             if (p.GetComponent<PlayerScript>().role == PlayerRole.Student)
             {
                 if (!Ogrenciler.Contains(p))
@@ -69,6 +78,15 @@ public class GameManager : MonoBehaviourPunCallbacks
             }
             else if (p.GetComponent<PlayerScript>().role == PlayerRole.Bully)
             {
+                if (p == null)
+                {
+                    players.Remove(p);
+                    zorbalar.Remove(p);
+                    Ogrenciler.Remove(p);
+                    oluler.Remove(p);
+                    canli.Remove(p);
+                }
+                
                 if (!zorbalar.Contains(p))
                 {
                     zorbalar.Add(p);
@@ -86,6 +104,15 @@ public class GameManager : MonoBehaviourPunCallbacks
             }
             else if (p.GetComponent<PlayerScript>().role == PlayerRole.Dead)
             {
+                if (p == null)
+                {
+                    players.Remove(p);
+                    zorbalar.Remove(p);
+                    Ogrenciler.Remove(p);
+                    oluler.Remove(p);
+                    canli.Remove(p);
+                }
+
                 if (zorbalar.Contains(p))
                 {
                     zorbalar.Remove(p);

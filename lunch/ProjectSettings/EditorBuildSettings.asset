@@ -15,18 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: ea052c687bb87ee43a847efb475f1b38
   - enabled: 1
-    path: Assets/Scenes/notActive/Lobby.unity
-    guid: 5ed7ec6dd4a5cd2458e4d9e76da1c003
-  - enabled: 1
     path: Assets/Scenes/GamePlay.unity
     guid: f5e55ab723be9d64a8bbc1c002884605
   - enabled: 1
-    path: Assets/Scenes/notActive/Voting.unity
-    guid: eb26d5816cfe1e141aa59d75c104949b
-  - enabled: 1
-    path: Assets/Scenes/WinScene.unity
-    guid: 984faa561c523e44db8b5e05c5491220
-  - enabled: 1
-    path: Assets/Scenes/LoseScene.unity
-    guid: f5611921be9bae84597d5fcdc0bb463f
+    path: Assets/Scenes/RestartGame.unity
+    guid: 5e46982c88306324eadb67590573cd90
   m_configObjects: {}

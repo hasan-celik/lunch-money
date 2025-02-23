@@ -20,6 +20,7 @@ TagManager:
   - Slider
   - RoleImage
   - rightAnswer
+  - MainSchoolBell
   layers:
   - Default
   - TransparentFX

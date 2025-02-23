@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Photon.Pun;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -21,11 +22,12 @@ public class GamePlayUI : MonoBehaviour
     [SerializeField] private Button restartButton;
     [SerializeField] private Button restart2Button;
     
+    [SerializeField] private TMP_Text lobbyNameText;
     
     private void Start()
     {
-        exitButton.onClick.AddListener(delegate { Application.Quit(); });
-        exit2Button.onClick.AddListener(delegate { Application.Quit(); });
+        exitButton.onClick.AddListener(delegate { QuitGame(); });
+        exit2Button.onClick.AddListener(delegate { QuitGame(); });
         
         
         restartButton.onClick.AddListener(delegate
@@ -33,7 +35,8 @@ public class GamePlayUI : MonoBehaviour
             Time.timeScale = 1;
             if (Time.timeScale == 1)
             {
-                PhotonNetwork.LoadLevel("GamePlay");
+                PhotonNetwork.LeaveRoom();
+                PhotonNetwork.LoadLevel("RestartGame");
             }
         });
         restart2Button.onClick.AddListener(delegate
@@ -41,7 +44,8 @@ public class GamePlayUI : MonoBehaviour
             Time.timeScale = 1;
             if (Time.timeScale == 1)
             {
-                PhotonNetwork.LoadLevel("GamePlay");
+                PhotonNetwork.LeaveRoom();
+                PhotonNetwork.LoadLevel("RestartGame");
             }
         });
         
@@ -65,6 +69,8 @@ public class GamePlayUI : MonoBehaviour
             isMapOpen = false;
         });
     }
+    
+    
 
     void Update()
     {
@@ -84,4 +90,14 @@ public class GamePlayUI : MonoBehaviour
             _miniMap.SetActive(true);
         }
     }
+    
+    void QuitGame()
+    {
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false; // Oyun editörde çalışıyorsa durdur
+#else
+            Application.Quit(); // Oyun build alınmışsa tamamen kapat
+#endif
+    }
+    
 }

@@ -85,6 +85,7 @@ public class FirebaseController : MonoBehaviour
             }
         }
 
+
         #endregion
 
         #region verificationEmail
@@ -246,7 +247,22 @@ public class FirebaseController : MonoBehaviour
                 ShowNotificationMessage("Error", "Forget Email Empty");
                 return;
             }
+
+            auth.SendPasswordResetEmailAsync(forgetPasswordEmail.text).ContinueWithOnMainThread(task =>
+            {
+                if (task.IsCanceled || task.IsFaulted)
+                {
+                    Debug.LogError("Şifre sıfırlama e-postası gönderilemedi: " + task.Exception);
+                    ShowNotificationMessage("Error", "Failed to send password reset email.");
+                }
+                else
+                {
+                    Debug.Log("Şifre sıfırlama e-postası gönderildi.");
+                    ShowNotificationMessage("Success", "Password reset email sent. Please check your inbox.");
+                }
+            });
         }
+
 
         public void CreateUser(string email, string password, string userName)
         {

@@ -30,4 +30,19 @@ public class d : MonoBehaviour
             Debug.Log("client ");
         }
     }
+    
+    public void LogCurrentRoomInfo()
+    {
+        if (PhotonNetwork.CurrentRoom != null)
+        {
+            Debug.Log($"Odaya Katıldın: {PhotonNetwork.CurrentRoom.Name}");
+            Debug.Log($"Oyuncu Sayısı: {PhotonNetwork.CurrentRoom.PlayerCount}/{PhotonNetwork.CurrentRoom.MaxPlayers}");
+            Debug.Log($"Gizli mi?: {PhotonNetwork.CurrentRoom.IsVisible}");
+            Debug.Log($"Açık mı?: {PhotonNetwork.CurrentRoom.IsOpen}");
+        }
+        else
+        {
+            Debug.Log("Şu anda bir odada değilsin.");
+        }
+    }
 }

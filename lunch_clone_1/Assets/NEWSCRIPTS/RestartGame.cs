@@ -1,44 +1,36 @@
-using System;
 using Photon.Pun;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Random = UnityEngine.Random;
 
 public class RestartGame : MonoBehaviourPunCallbacks
 {
-    public GameManager gameManager;
-
-    // private void Awake()
-    // {
-    //     gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-    // }
-
-    private void Start()
+    void Start()
     {
-        photonView.RPC("RestartTheGame", RpcTarget.All);
+        GameObject usernameGameObject = GameObject.FindGameObjectWithTag("playerUsername");
+        string playerName = usernameGameObject.GetComponent<PlayerUsername>().playername;
+
+        if (string.IsNullOrEmpty(playerName))
+        {
+            playerName = "Guest_" + Random.Range(1000, 9999);
+        }
+
+        PhotonNetwork.NickName = playerName;
+        PhotonNetwork.ConnectUsingSettings();
     }
 
-    [PunRPC]
-    public void RestartTheGame()
+    public override void OnConnectedToMaster()
     {
-        // Sadece kendi oyuncumu bul ve yeniden oluştur
-        foreach (var p in gameManager.players)
-        {
-            PhotonView pv = p.GetComponent<PhotonView>();
+        PhotonNetwork.JoinLobby();
+    }
 
-            if (pv != null && pv.IsMine) // Eğer p benim karakterimse
-            {
-                Vector3 spawnPos = new Vector3(Random.Range(-15, 26), Random.Range(-6, 17), p.transform.position.z);
+    public override void OnJoinedLobby()
+    {
+        Invoke("LoadMenuScene", 2f); // 2 saniye sonra LoadMenuScene() fonksiyonunu çağır
+    }
 
-                // Yeni oyuncuyu oluştur
-                GameObject newPlayer = PhotonNetwork.Instantiate("PlayerPrefab", spawnPos, Quaternion.identity);
-
-                // Eski oyuncuyu sil
-                PhotonNetwork.Destroy(p);
-            }
-        }
+    private void LoadMenuScene()
+    {
+        SceneManager.LoadScene("Menu");
     }
 }

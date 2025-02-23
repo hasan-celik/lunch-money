@@ -79,6 +79,7 @@ MonoBehaviour:
   - voting
   - skipButton
   - resetVote
+  - selfDestroy
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

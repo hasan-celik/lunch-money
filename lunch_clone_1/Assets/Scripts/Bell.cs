@@ -29,7 +29,7 @@ public class Bell : MonoBehaviourPunCallbacks
 
     #region votingButtons
     
-    [SerializeField] private GameObject votingPanel;
+    [SerializeField] public GameObject votingPanel;
     public List<Button> Buttons;
 
     public GameObject buttonPrefab; // Oyuncu butonları için prefab
