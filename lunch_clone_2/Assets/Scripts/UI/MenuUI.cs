@@ -5,7 +5,7 @@ using UnityEngine;
 public class MenuUI : MonoBehaviour
 {
     [SerializeField]
-    private GameObject _mainPage, _settingsPage, _playerInfoPage, _createLobbyPage, _findGamePage;
+    private GameObject _mainPage, _settingsPage, _createLobbyPage, _findGamePage;
     
     [SerializeField] private GameObject joinUI;
     private bool isJoinUiOpen = false;
@@ -21,7 +21,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(true);
         _settingsPage.SetActive(false);
-        _playerInfoPage.SetActive(false);
         _createLobbyPage.SetActive(false);
         _findGamePage.SetActive(false);
         PlaySound();
@@ -31,7 +30,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(false);
         _settingsPage.SetActive(false);
-        _playerInfoPage.SetActive(false);
         _createLobbyPage.SetActive(false);
         _findGamePage.SetActive(false);
     }
@@ -40,7 +38,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(false);
         _settingsPage.SetActive(true);
-        _playerInfoPage.SetActive(false);
         _createLobbyPage.SetActive(false);
         _findGamePage.SetActive(false);
         PlaySound();
@@ -50,7 +47,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(false);
         _settingsPage.SetActive(false);
-        _playerInfoPage.SetActive(true);
         _createLobbyPage.SetActive(false);
         _findGamePage.SetActive(false);
         PlaySound();
@@ -60,7 +56,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(false);
         _settingsPage.SetActive(false);
-        _playerInfoPage.SetActive(false);
         _createLobbyPage.SetActive(true);
         _findGamePage.SetActive(false);
         PlaySound();
@@ -70,7 +65,6 @@ public class MenuUI : MonoBehaviour
     {
         _mainPage.SetActive(false);
         _settingsPage.SetActive(false);
-        _playerInfoPage.SetActive(false);
         _createLobbyPage.SetActive(false);
         _findGamePage.SetActive(true);
         PlaySound();
