@@ -30,10 +30,12 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
         }
     }
     
+    private int _lastMode = -1;
+    
     void FixedUpdate()
     {
         if (!photonView.IsMine) return;
-
+        
         Vector2 move = MoveAction.ReadValue<Vector2>();
 
         if (move != Vector2.zero)
@@ -41,11 +43,9 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
             Vector2 position = (Vector2)transform.position + move * speed * Time.deltaTime;
             transform.position = position;
 
-            // Yürüyüş sesini sadece çalmıyorsa başlat
-            if (!_audioSource.isPlaying && photonView.IsMine)
+            if (!_audioSource.isPlaying)
                 _audioSource.Play();
-            
-            // Flip işlemini sadece yatay harekete göre yap
+
             if (move.x < 0)
                 _spriteRenderer.flipX = true;
             else if (move.x > 0)
@@ -53,14 +53,34 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
         }
         else
         {
-            // Karakter durunca sesi durdur
             if (_audioSource.isPlaying)
                 _audioSource.Stop();
         }
 
-        // Animasyon Kontrolü
-        _animator.SetInteger("Mode", move != Vector2.zero ? 1 : 0);
+        // Mode değiştiyse sadece o zaman güncelle
+        int newMode = move != Vector2.zero ? 1 : 0;
+        if (_lastMode != newMode)
+        {
+            _animator.SetInteger("Mode", newMode);
+            _lastMode = newMode;
+        }
     }
+    
+    private float blinkTimer = 0f;
+
+    void Update()
+    {
+        if (_animator.GetInteger("Mode") == 0) // Sadece Idle durumunda
+        {
+            blinkTimer -= Time.deltaTime;
+            if (blinkTimer <= 0)
+            {
+                _animator.SetTrigger("Blink");
+                blinkTimer = Random.Range(6f, 10f); // 3-6 saniye arasında rastgele tekrar et
+            }
+        }
+    }
+
     public bool GetFlipX()
     {
         return _spriteRenderer.flipX;

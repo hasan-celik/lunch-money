@@ -1,10 +1,12 @@
-﻿using Photon.Pun;
+﻿using System;
+using Photon.Pun;
 using Photon.Realtime;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 public class PlayerScript : MonoBehaviourPunCallbacks
 {
@@ -17,6 +19,12 @@ public class PlayerScript : MonoBehaviourPunCallbacks
 
     [SerializeField] private Sprite bullyImage;
     [SerializeField] private Sprite studentImage;
+
+    [SerializeField] private SpriteRenderer PlayerSprite;
+    [SerializeField] private Animator PlayerAnimator;
+    [SerializeField] private Sprite GhostSprite;
+    [SerializeField] private GameObject GhostParticlePrefab;
+    [SerializeField] private GameObject PlayerNickUI;
 
     public List<GameObject> zorbaGameObjects;
 
@@ -108,13 +116,33 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     {
         photonView.RPC("SetRole", RpcTarget.All, newRole);
     }
+
+    public SpriteRenderer hatSprite;
     
     [PunRPC]
     public void Death()
     {
+        PlayerAnimator.enabled = false;
+        PlayerSprite.sprite = GhostSprite;
+        float ghostAlpha = 215f / 255f; // Alpha değerini normalize et (0 ile 1 arasında olmalı)
+        PlayerSprite.color = new Color(PlayerSprite.color.r, PlayerSprite.color.g, PlayerSprite.color.b, ghostAlpha);
+        GhostParticlePrefab.SetActive(true);
+        try
+        {
+            hatSprite = _hatHolder.GetComponentInChildren<SpriteRenderer>();
+        }
+        catch (Exception e)
+        {
+            throw;
+        }
+        if (hatSprite != null)
+        {
+            hatSprite.color = new Color(hatSprite.color.r, hatSprite.color.g, hatSprite.color.b, ghostAlpha);
+        }
         gameObject.transform.position = new Vector3(Random.Range(-68, -58), 1.5f, 0);
         int deadLayer = LayerMask.NameToLayer("Dead");
         gameObject.layer = deadLayer;
+        PlayerNickUI.layer = deadLayer;
         if (photonView.IsMine)
         {
             gameObject.GetComponent<CameraController>().onPlDeath();
