@@ -16,6 +16,12 @@ public class Bell : MonoBehaviourPunCallbacks
         photonView.RPC("activateVoting", RpcTarget.All);
     }
 
+    public void startVotingMethodForOtherInputDevices()
+    {
+        photonView.RPC("CreateVoteButtons", RpcTarget.All);
+        photonView.RPC("activateVoting", RpcTarget.All);
+    }
+
     [PunRPC]
     public void activateVoting() 
     {

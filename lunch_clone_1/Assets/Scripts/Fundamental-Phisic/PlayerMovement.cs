@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
     [SerializeField] private SpriteRenderer _spriteRenderer;
     [SerializeField] private AudioSource _audioSource;
     
-    [SerializeField] private GameObject  mapCircle;
+    [SerializeField] private GameObject mapCircle;
     [SerializeField] private GameObject light;
 
     private void Start()
@@ -32,32 +32,37 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
     
     void FixedUpdate()
     {
-        if (GetComponent<PhotonView>().IsMine == true)
+        if (!photonView.IsMine) return;
+
+        Vector2 move = MoveAction.ReadValue<Vector2>();
+
+        if (move != Vector2.zero)
         {
-            Vector2 move = MoveAction.ReadValue<Vector2>();
-            //Debug.Log(move);
             Vector2 position = (Vector2)transform.position + move * speed * Time.deltaTime;
             transform.position = position;
-        }
 
-        if (GetComponent<PhotonView>().IsMine && MoveAction.IsInProgress())
-        {
-            _animator.SetInteger("Mode", 1);
+            // Yürüyüş sesini sadece çalmıyorsa başlat
+            if (!_audioSource.isPlaying && photonView.IsMine)
+                _audioSource.Play();
+            
+            // Flip işlemini sadece yatay harekete göre yap
+            if (move.x < 0)
+                _spriteRenderer.flipX = true;
+            else if (move.x > 0)
+                _spriteRenderer.flipX = false;
         }
         else
         {
-            _animator.SetInteger("Mode", 0);
-            _audioSource.Play();
+            // Karakter durunca sesi durdur
+            if (_audioSource.isPlaying)
+                _audioSource.Stop();
         }
 
-        if (GetComponent<PhotonView>().IsMine && Keyboard.current.aKey.IsPressed())
-        {
-            _spriteRenderer.flipX = true;
-        }
-
-        if (GetComponent<PhotonView>().IsMine && Keyboard.current.dKey.IsPressed())
-        {
-            _spriteRenderer.flipX = false;
-        }
+        // Animasyon Kontrolü
+        _animator.SetInteger("Mode", move != Vector2.zero ? 1 : 0);
+    }
+    public bool GetFlipX()
+    {
+        return _spriteRenderer.flipX;
     }
 }

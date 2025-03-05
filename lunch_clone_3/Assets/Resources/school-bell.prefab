@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 8712788240296238148}
   - component: {fileID: 7703035058288341384}
   - component: {fileID: 2143540221246402934}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: school-bell
-  m_TagString: Untagged
+  m_TagString: MainSchoolBell
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -174,7 +174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2659523249361583975}
   - component: {fileID: 6204816225351616938}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}

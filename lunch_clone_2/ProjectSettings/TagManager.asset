@@ -21,6 +21,8 @@ TagManager:
   - RoleImage
   - rightAnswer
   - MainSchoolBell
+  - car
+  - CopySchoolBell
   layers:
   - Default
   - TransparentFX
@@ -30,10 +32,10 @@ TagManager:
   - UI
   - Map
   - Dead
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - DBounds
+  - task
+  - bells
   - 
   - 
   - 

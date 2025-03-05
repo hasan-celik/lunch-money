@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CopySchoolBell : MonoBehaviourPunCallbacks
+public class CopyMainSchoolBell : MonoBehaviourPunCallbacks
 {
     public GameObject mainSchoolBell;
 
@@ -23,6 +23,13 @@ public class CopySchoolBell : MonoBehaviourPunCallbacks
     public Button skipButton;
 
     private void OnMouseDown()
+    {
+        photonView.RPC("CreateVoteButtons", RpcTarget.All);
+        photonView.RPC("activateVoting", RpcTarget.All);
+        photonView.RPC("selfDestroy", RpcTarget.All);
+    }
+    
+    public void startVotingMethodForOtherInputDevices()
     {
         photonView.RPC("CreateVoteButtons", RpcTarget.All);
         photonView.RPC("activateVoting", RpcTarget.All);

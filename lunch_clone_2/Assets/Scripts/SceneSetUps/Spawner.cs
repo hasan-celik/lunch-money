@@ -35,11 +35,6 @@ public class Spawner : MonoBehaviourPunCallbacks
             ColorPanel();
         });
         ColorButtons = GameObject.FindGameObjectsWithTag("ColorButton").ToList();
-
-        // if (PhotonNetwork.IsConnected && PhotonNetwork.LocalPlayer != null)
-        // {
-        //     GameObject player = PhotonNetwork.Instantiate("Player", new Vector3(Random.Range(-8, 8), 1.5f, 0), quaternion.identity);
-        // }
         SpawnObject();
     }
     
@@ -54,20 +49,6 @@ public class Spawner : MonoBehaviourPunCallbacks
             }
             
             GameObject player = PhotonNetwork.Instantiate("Player", new Vector3(Random.Range(-68, -58), 1.5f, 0), quaternion.identity);
-            
-            // Color colorToSpawn = GetRandomColor();
-            // if (colorToSpawn != Color.clear) 
-            // {
-            //     GameObject player = PhotonNetwork.Instantiate("Player", new Vector3(Random.Range(-68, -58), 1.5f, 0), quaternion.identity);
-            //
-            //     //photonView.RPC("ColorSet", RpcTarget.All, player, colorToSpawn);
-            //     player.GetComponent<Renderer>().material.color = colorToSpawn;
-            //     usedColors.Add(colorToSpawn); 
-            // }
-            // else
-            // {
-            //     Debug.Log("Lobi full dolu");
-            // }
         }
     }
     
@@ -89,24 +70,13 @@ public class Spawner : MonoBehaviourPunCallbacks
             return availableColors[randomIndex];
         }
 
-        return Color.clear; // Tüm renkler kullanıldıysa
+        return Color.clear; 
     }
 
     public void ColorSet(GameObject p, Color color)
     {
         p.GetComponent<Renderer>().material.color = color;
     }
-
-    //private void Update()
-    //{
-    //    for (int i = 0; i < 20; i++)
-    //    {
-    //        for (int j = 0; j < 20; j++)
-    //        {
-    //            ColorButtons[i].GetComponent<Button>().colors.normalColor;
-    //        }
-    //    }
-    //}
 
     public void ColorPanel() 
     {

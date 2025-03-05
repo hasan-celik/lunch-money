@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 public class Yakinlik :  MonoBehaviourPunCallbacks
@@ -11,6 +12,9 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
     [SerializeField] private GameObject gorev;
     public Button InteractButton;
     public TaskManager t;
+    
+    public Bell bell;
+    public CopyMainSchoolBell copyBell;
 
     private void Start()
     {
@@ -32,6 +36,30 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
             });
             InteractButton.interactable = true;
         }
+
+        if (collision.gameObject.CompareTag("MainSchoolBell") && photonView.IsMine)
+        {
+            bell = collision.gameObject.GetComponent<Bell>();
+            
+            InteractButton.onClick.AddListener(() =>
+            {
+                bell.startVotingMethodForOtherInputDevices();
+            });
+            
+            InteractButton.interactable = true;
+        }
+        
+        if (collision.gameObject.CompareTag("CopySchoolBell") && photonView.IsMine)
+        {
+            copyBell = collision.gameObject.GetComponent<CopyMainSchoolBell>();
+            
+            InteractButton.onClick.AddListener(() =>
+            {
+                bell.startVotingMethodForOtherInputDevices();
+            });
+            
+            InteractButton.interactable = true;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -42,7 +70,21 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
             gorev = null;
             InteractButton.onClick.RemoveAllListeners();
             InteractButton.interactable = false;
+        }
 
+        if (collision.gameObject.CompareTag("MainSchoolBell") && photonView.IsMine)
+        {
+            gorev = null;
+            bell = null;
+            InteractButton.onClick.RemoveAllListeners();
+            InteractButton.interactable = false;
+        }
+
+        if (collision.gameObject.CompareTag("CopySchoolBell") && photonView.IsMine)
+        {
+            copyBell = null;
+            InteractButton.onClick.RemoveAllListeners();
+            InteractButton.interactable = false;
         }
     }
     

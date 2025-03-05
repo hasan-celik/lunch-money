@@ -80,6 +80,9 @@ MonoBehaviour:
   - skipButton
   - resetVote
   - selfDestroy
+  - RPC_UpdateHat
+  - SetHat
+  - syncHatHolderLayer
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

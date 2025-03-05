@@ -9,12 +9,15 @@ public class CameraController : MonoBehaviourPunCallbacks
 {
     [SerializeField] private GameObject cameraHolder;
     [SerializeField] private Vector3 offset;
+    
+    public Camera _mainCamera;
 
     private void Start()
     {
         if (photonView.IsMine)
         {
             cameraHolder = GameObject.Find("cameraHolder");
+            _mainCamera = cameraHolder.transform.Find("Camera").GetComponent<Camera>();
             cameraHolder.SetActive(true);
         }
     }
@@ -25,5 +28,11 @@ public class CameraController : MonoBehaviourPunCallbacks
         {
             cameraHolder.transform.position = transform.position + offset;
         }
+    }
+
+    public void onPlDeath()
+    {
+        int deadLayer = LayerMask.NameToLayer("Dead");
+        _mainCamera.cullingMask |= (1 << deadLayer);
     }
 }

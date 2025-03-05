@@ -20,6 +20,9 @@ public class PlayerScript : MonoBehaviourPunCallbacks
 
     public List<GameObject> zorbaGameObjects;
 
+    public GameObject _hatHolder;
+    public GameObject _yakinlik;
+
     private int bully1;
     private int bully2;
     
@@ -72,8 +75,29 @@ public class PlayerScript : MonoBehaviourPunCallbacks
                 obj.SetActive(false);
             }
         }
+
+        if (gameObject.layer == 7)
+        {
+            photonView.RPC("syncHatHolderLayer", RpcTarget.AllBuffered);
+        }
     }
-    
+
+    [PunRPC]
+    public void syncHatHolderLayer()
+    {
+        SetLayerRecursively(_hatHolder.gameObject, 7);
+        _yakinlik.layer = 7;
+    }
+
+    private void SetLayerRecursively(GameObject obj, int layer)
+    {
+        obj.layer = layer;
+        foreach (Transform child in obj.transform)
+        {
+            SetLayerRecursively(child.gameObject, layer);
+        }
+    }
+
     [PunRPC]
     public void SetRole(PlayerRole newRole)
     {
@@ -89,6 +113,12 @@ public class PlayerScript : MonoBehaviourPunCallbacks
     public void Death()
     {
         gameObject.transform.position = new Vector3(Random.Range(-68, -58), 1.5f, 0);
+        int deadLayer = LayerMask.NameToLayer("Dead");
+        gameObject.layer = deadLayer;
+        if (photonView.IsMine)
+        {
+            gameObject.GetComponent<CameraController>().onPlDeath();
+        }
     }
 
     public void onPlayerDeath()
