@@ -38,9 +38,4 @@ public class FindGameManager : MonoBehaviourPunCallbacks
             }
         }
     }
-
-    public override void OnJoinedLobby()
-    {
-        Debug.Log("Lobiye girildi, oda listesi güncellenecek.");
-    }
 }

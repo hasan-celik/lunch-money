@@ -12,7 +12,7 @@ public class BullyBehavior : MonoBehaviourPunCallbacks
     private TMP_Text nextSkillTime;
 
     private GameObject parentObject;
-    private float nextSkillUseTime = 0f; // Cooldown için zaman
+    private float nextSkillUseTime = 15f; // Cooldown için zaman
     private float skillCooldown = 30f; // 30 saniye cooldown süresi
 
     private void Start()

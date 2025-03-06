@@ -19,12 +19,14 @@ public class PlayerScript : MonoBehaviourPunCallbacks
 
     [SerializeField] private Sprite bullyImage;
     [SerializeField] private Sprite studentImage;
+    [SerializeField] private Sprite ghostImage;
 
     [SerializeField] private SpriteRenderer PlayerSprite;
     [SerializeField] private Animator PlayerAnimator;
     [SerializeField] private Sprite GhostSprite;
     [SerializeField] private GameObject GhostParticlePrefab;
     [SerializeField] private GameObject PlayerNickUI;
+    [SerializeField] private AudioSource aSource;
 
     public List<GameObject> zorbaGameObjects;
 
@@ -42,6 +44,7 @@ public class PlayerScript : MonoBehaviourPunCallbacks
         roleImage = GameObject.FindGameObjectWithTag("RoleImage").GetComponent<Image>();
         zorbaGameObjects = GameObject.FindGameObjectsWithTag("Bully").ToList();
     }
+    
 
     private void Update()
     {
@@ -66,7 +69,34 @@ public class PlayerScript : MonoBehaviourPunCallbacks
             
             if (photonView.IsMine)
             {
+                // ColorBlock cb = RoleButtonColor.colors;
+                // cb.normalColor = Color.green;
+                // RoleButtonColor.colors = cb;
+                
                 roleImage.sprite = studentImage;
+            }
+            
+            bullyBehavior.enabled = false;
+            foreach (GameObject obj in zorbaGameObjects)
+            {
+                // ColorBlock cb = RoleButtonColor.colors;
+                // cb.normalColor = Color.red;
+                // RoleButtonColor.colors = cb;
+                
+                obj.SetActive(false);
+            }
+        }
+        else if(role == PlayerRole.Dead)
+        {
+            PlayerRoleText.text = "Ghost";
+            
+            if (photonView.IsMine)
+            {
+                // ColorBlock cb = RoleButtonColor.colors;
+                // cb.normalColor = Color.cyan;
+                // RoleButtonColor.colors = cb;
+                
+                roleImage.sprite = ghostImage;
             }
             
             bullyBehavior.enabled = false;
@@ -127,6 +157,7 @@ public class PlayerScript : MonoBehaviourPunCallbacks
         float ghostAlpha = 215f / 255f; // Alpha değerini normalize et (0 ile 1 arasında olmalı)
         PlayerSprite.color = new Color(PlayerSprite.color.r, PlayerSprite.color.g, PlayerSprite.color.b, ghostAlpha);
         GhostParticlePrefab.SetActive(true);
+        aSource.enabled = false;
         try
         {
             hatSprite = _hatHolder.GetComponentInChildren<SpriteRenderer>();

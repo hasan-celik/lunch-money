@@ -12,6 +12,8 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
     [SerializeField] private GameObject gorev;
     public Button InteractButton;
     public TaskManager t;
+    public AudioSource _audioSource;
+    public AudioClip WrongSound;
     
     public Bell bell;
     public CopyMainSchoolBell copyBell;
@@ -66,6 +68,12 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
     {
         if (collision.gameObject.CompareTag("task") && photonView.IsMine)
         {
+            if (t.isTaskPanelOpen == true)
+            {
+                _audioSource.PlayOneShot(WrongSound);
+                t.ToggleTaskPanel();
+            }
+
             gorev.GetComponent<TaskTrigger>().enabled = false;
             gorev = null;
             InteractButton.onClick.RemoveAllListeners();

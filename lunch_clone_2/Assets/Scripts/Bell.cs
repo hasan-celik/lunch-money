@@ -10,11 +10,11 @@ public class Bell : MonoBehaviourPunCallbacks
     public GameObject votingCanvas;
     public Button skipButton;
 
-    private void OnMouseDown()
-    {
-        photonView.RPC("CreateVoteButtons", RpcTarget.All);
-        photonView.RPC("activateVoting", RpcTarget.All);
-    }
+    // private void OnMouseDown()
+    // {
+    //     photonView.RPC("CreateVoteButtons", RpcTarget.All);
+    //     photonView.RPC("activateVoting", RpcTarget.All);
+    // }
 
     public void startVotingMethodForOtherInputDevices()
     {

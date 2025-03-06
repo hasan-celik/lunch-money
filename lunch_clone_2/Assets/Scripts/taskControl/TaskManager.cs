@@ -8,7 +8,7 @@ public class TaskManager : MonoBehaviourPunCallbacks
 {
     public GameObject taskPanel; // Görev panelini sahnede tanımla
 
-    private bool isTaskPanelOpen = false;
+    public bool isTaskPanelOpen = false;
 
 
 

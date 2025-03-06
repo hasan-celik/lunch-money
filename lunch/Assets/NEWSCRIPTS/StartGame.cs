@@ -24,6 +24,7 @@ public class StartGame : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject interactButton;
     [SerializeField] private GameObject renkButton;
     [SerializeField] private GameObject infoUI;
+    [SerializeField] private GameObject cosmeticsUI;
 
     private Transform parentTransform;
 
@@ -49,6 +50,8 @@ public class StartGame : MonoBehaviourPunCallbacks
         interactButton = parentTransform.Find("InteractButton").GameObject();
         renkButton = parentTransform.Find("ChangeColor").GameObject();
         infoUI = parentTransform.Find("info").GameObject();
+        
+        cosmeticsUI = parentTransform.Find("CosmeticPanel").GameObject();
         
         
         // Eğer "Ready" özelliği yoksa, false olarak ayarla
@@ -175,6 +178,8 @@ public class StartGame : MonoBehaviourPunCallbacks
                 renkButton.SetActive(false);
                 startButton.gameObject.SetActive(false);                
                 player.GetComponent<PlayerScript>().enabled = true;
+                
+                cosmeticsUI.SetActive(false);
                 
                 infoUI.SetActive(false);
                 

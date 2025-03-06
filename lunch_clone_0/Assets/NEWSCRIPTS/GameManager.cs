@@ -23,6 +23,9 @@ public class GameManager : MonoBehaviourPunCallbacks
     public int bullyIndex;
     private int buPlayerinIndexi;
     
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip winClip;
+    
 
     private void Start()
     {
@@ -162,7 +165,15 @@ public class GameManager : MonoBehaviourPunCallbacks
             // Lose condition: If the number of zorbalar is greater than or equal to students
             if (zorbalar.Count() >= Ogrenciler.Count())
                 photonView.RPC("LoseGame", RpcTarget.All);
+            
+            
+            // Invoke("winSound",1);
         }
+    }
+
+    public void winSound()
+    {
+        audioSource.PlayOneShot(winClip);
     }
 
     [PunRPC]

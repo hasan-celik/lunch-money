@@ -11,4 +11,13 @@ public class CarDestroyer : MonoBehaviour
             Destroy(other.gameObject);  // Objeyi yok et
         }
     }
+    
+    void OnTriggerStay2D(Collider2D other)
+    {
+        // Eğer çarpan objenin tag'ı "Car" ise
+        if (other.CompareTag("car"))
+        {
+            Destroy(other.gameObject);  // Objeyi yok et
+        }
+    }
 }

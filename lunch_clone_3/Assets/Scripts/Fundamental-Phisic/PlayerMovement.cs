@@ -1,4 +1,5 @@
 using Photon.Pun;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -12,6 +13,9 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
 
     [SerializeField] private SpriteRenderer _spriteRenderer;
     [SerializeField] private AudioSource _audioSource;
+    [SerializeField] private AudioClip grasAudioClip;
+    [SerializeField] private AudioClip woodAudioClip;
+    private string currentSurface = "Default";
     
     [SerializeField] private GameObject mapCircle;
     [SerializeField] private GameObject light;
@@ -43,8 +47,22 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
             Vector2 position = (Vector2)transform.position + move * speed * Time.deltaTime;
             transform.position = position;
 
+            switch (currentSurface)
+            {
+                case "Grass":
+                    _audioSource.clip = grasAudioClip;
+                    break;
+                case "Wood":
+                    _audioSource.clip = woodAudioClip;
+                    break;
+                default:
+                    break;
+            }
+            
             if (!_audioSource.isPlaying)
+            {
                 _audioSource.Play();
+            }
 
             if (move.x < 0)
                 _spriteRenderer.flipX = true;
@@ -80,6 +98,21 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
             }
         }
     }
+    
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        currentSurface = collision.tag;
+    }
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        currentSurface = collision.tag;
+    }
+
+    // private void OnTriggerExit2D(Collider2D collision)
+    // {
+    //     currentSurface = "Default";
+    // }
 
     public bool GetFlipX()
     {
