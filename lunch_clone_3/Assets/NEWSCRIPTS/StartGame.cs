@@ -26,7 +26,10 @@ public class StartGame : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject infoUI;
     [SerializeField] private GameObject cosmeticsUI;
 
+    [SerializeField] private GameObject RoleCanvas;
+
     private Transform parentTransform;
+    private Transform parentTransform1;
 
     private void Awake()
     {
@@ -36,6 +39,7 @@ public class StartGame : MonoBehaviourPunCallbacks
     private void Start()
     {
         parentTransform = GameObject.Find("Canvas").transform;
+        parentTransform1 = GameObject.Find("Canvases").transform;
         
         Transform setups = GameObject.Find("SET-UPS").transform;
         
@@ -52,6 +56,8 @@ public class StartGame : MonoBehaviourPunCallbacks
         infoUI = parentTransform.Find("info").GameObject();
         
         cosmeticsUI = parentTransform.Find("CosmeticPanel").GameObject();
+        
+        RoleCanvas = parentTransform1.Find("RoleCanvas").GameObject();
         
         
         // Eğer "Ready" özelliği yoksa, false olarak ayarla
@@ -182,6 +188,8 @@ public class StartGame : MonoBehaviourPunCallbacks
                 cosmeticsUI.SetActive(false);
                 
                 infoUI.SetActive(false);
+                
+                RoleCanvas.SetActive(true);
                 
                 player.GetComponentInChildren<Yakinlik>().enabled = true;
                 player.transform.position = new Vector3(Random.Range(-16, 25), Random.Range(-17, -7), player.transform.position.z);

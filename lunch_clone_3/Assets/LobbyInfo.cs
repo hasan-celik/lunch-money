@@ -10,11 +10,18 @@ public class LobbyInfo : MonoBehaviour
     [SerializeField] private TMP_Text lobbyNameText;
     [SerializeField] private TMP_Text isLobbyOpenText;
     [SerializeField] private TMP_Text playerCountText;
+    
+    [SerializeField] private TMP_Text copyInfoText;
 
+    
+    private string lobbyName;
+
+    private bool isLobbyNameVisible = false;
 
     private void Update()
     {
-        lobbyNameText.text = $"Lobby : {PhotonNetwork.CurrentRoom.Name}";
+        lobbyName = isLobbyNameVisible? PhotonNetwork.CurrentRoom.Name : "*********";
+        lobbyNameText.text = $"Lobby : {lobbyName}";
         isLobbyOpenText.text = PhotonNetwork.CurrentRoom.IsOpen?"Public Lobby":"Private Lobby";
         playerCountText.text = $"Players : {PhotonNetwork.CurrentRoom.PlayerCount}/{PhotonNetwork.CurrentRoom.MaxPlayers}";
     }
@@ -33,4 +40,27 @@ public class LobbyInfo : MonoBehaviour
             Debug.Log("Şu anda bir odada değilsin.");
         }
     }
+
+    public void HideButton()
+    {
+        isLobbyNameVisible = !isLobbyNameVisible;
+    }
+
+    public void CoppyButton()
+    {
+        GUIUtility.systemCopyBuffer = PhotonNetwork.CurrentRoom.Name;
+        
+        copyInfoText.text = "Room name copied!";
+        copyInfoText.gameObject.SetActive(true);
+        
+        StartCoroutine(HideCopyInfo());
+    }
+    
+    
+    private IEnumerator HideCopyInfo()
+    {
+        yield return new WaitForSeconds(1f);
+        copyInfoText.gameObject.SetActive(false);
+    }
+
 }

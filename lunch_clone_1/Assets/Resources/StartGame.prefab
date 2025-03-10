@@ -57,6 +57,7 @@ MonoBehaviour:
   renkButton: {fileID: 0}
   infoUI: {fileID: 0}
   cosmeticsUI: {fileID: 0}
+  RoleCanvas: {fileID: 0}
 --- !u!114 &789756765771676388
 MonoBehaviour:
   m_ObjectHideFlags: 0

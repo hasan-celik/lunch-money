@@ -25,6 +25,7 @@ TagManager:
   - CopySchoolBell
   - Grass
   - Wood
+  - Cosmetic
   layers:
   - Default
   - TransparentFX

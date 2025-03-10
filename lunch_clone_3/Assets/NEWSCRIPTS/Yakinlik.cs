@@ -18,6 +18,8 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
     public Bell bell;
     public CopyMainSchoolBell copyBell;
 
+    public Spawner spawnerScript;
+
     private void Start()
     {
         InteractButton = GameObject.FindGameObjectWithTag("InteractButton").GetComponent<Button>();
@@ -57,7 +59,19 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
             
             InteractButton.onClick.AddListener(() =>
             {
-                bell.startVotingMethodForOtherInputDevices();
+                copyBell.startVotingMethodForOtherInputDevices();
+            });
+            
+            InteractButton.interactable = true;
+        }
+        
+        if (collision.gameObject.CompareTag("Cosmetic") && photonView.IsMine)
+        {
+            spawnerScript = collision.gameObject.GetComponent<CosmeticObject>().sp;
+            
+            InteractButton.onClick.AddListener(() =>
+            {
+                spawnerScript.ColorPanel();
             });
             
             InteractButton.interactable = true;
@@ -91,6 +105,18 @@ public class Yakinlik :  MonoBehaviourPunCallbacks
         if (collision.gameObject.CompareTag("CopySchoolBell") && photonView.IsMine)
         {
             copyBell = null;
+            InteractButton.onClick.RemoveAllListeners();
+            InteractButton.interactable = false;
+        }
+        
+        if (collision.gameObject.CompareTag("Cosmetic") && photonView.IsMine)
+        {
+            if (spawnerScript.isColorPanelOpen == true)
+            {
+                spawnerScript.ColorPanel();
+            }
+
+            spawnerScript = null;
             InteractButton.onClick.RemoveAllListeners();
             InteractButton.interactable = false;
         }

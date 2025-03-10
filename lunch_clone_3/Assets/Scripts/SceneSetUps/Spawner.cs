@@ -20,7 +20,7 @@ public class Spawner : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject colorPicker;
     [SerializeField] private Button ColorPickerButton;
     public List<GameObject> ColorButtons;
-    private bool isColorPanelOpen = false;
+    public bool isColorPanelOpen = false;
     
     [SerializeField] private GameObject canvas;
 
