@@ -1,0 +1,2640 @@
+fileFormatVersion: 2
+guid: f79f51ee9591708c9b49a2c7a1e5c380
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6593010688613073815
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_0
+  - first:
+      213: -5523832541625141469
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_1
+  - first:
+      213: 7788995987249357160
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_2
+  - first:
+      213: 7944219538235127097
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_3
+  - first:
+      213: 3788480681007513722
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_4
+  - first:
+      213: 5607487830396824757
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_5
+  - first:
+      213: -2648553395645103956
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_6
+  - first:
+      213: 2493818374120953753
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_7
+  - first:
+      213: 8848778845061600686
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_8
+  - first:
+      213: 4490469498753528288
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_9
+  - first:
+      213: 6033186151438956098
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_10
+  - first:
+      213: -8201842680500479729
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_11
+  - first:
+      213: -6133644520048190644
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_12
+  - first:
+      213: -3249995838344359792
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_13
+  - first:
+      213: 3912239601923100076
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_14
+  - first:
+      213: -2310808321802572861
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_15
+  - first:
+      213: 8013853891955638667
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_16
+  - first:
+      213: 3411916316908382518
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_17
+  - first:
+      213: 6577129899048020944
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_18
+  - first:
+      213: 1980645638423505025
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_19
+  - first:
+      213: 1767684837655705224
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_20
+  - first:
+      213: 3011050700078403349
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_21
+  - first:
+      213: -3270673982346168296
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_22
+  - first:
+      213: 6155003546891513689
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_23
+  - first:
+      213: 641753344623106631
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_24
+  - first:
+      213: 6470745429600564051
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_25
+  - first:
+      213: 6452529446363778728
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_26
+  - first:
+      213: -5996817594646673327
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_27
+  - first:
+      213: 3682173474701157351
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_28
+  - first:
+      213: -1258046539777277981
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_29
+  - first:
+      213: -5456052846866155043
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_30
+  - first:
+      213: 7480328769205997779
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_31
+  - first:
+      213: -4105996547376477378
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_32
+  - first:
+      213: 8011991245092767773
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_33
+  - first:
+      213: -6610802416618957499
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_34
+  - first:
+      213: -491352223049347603
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_35
+  - first:
+      213: 3989787368441095441
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_36
+  - first:
+      213: 1691402604229997188
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_37
+  - first:
+      213: -8832800937266138816
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_38
+  - first:
+      213: 7916399547868927566
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_39
+  - first:
+      213: -7787208695596766375
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_40
+  - first:
+      213: -4540338248320428227
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_41
+  - first:
+      213: -1723396686034550670
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_42
+  - first:
+      213: 254292502302183782
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_43
+  - first:
+      213: -2221504406181848162
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_44
+  - first:
+      213: -202917065119974797
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_45
+  - first:
+      213: 4659389931513626842
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_46
+  - first:
+      213: -8424319655709299324
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_47
+  - first:
+      213: 1237865215860227855
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_48
+  - first:
+      213: 1616992331232181436
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_49
+  - first:
+      213: 8000890882422386318
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_50
+  - first:
+      213: 4759530855848629955
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_51
+  - first:
+      213: 5055610457795116100
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_52
+  - first:
+      213: 4106779834264321792
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_53
+  - first:
+      213: -8544229982319541824
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_54
+  - first:
+      213: -693974658851636122
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_55
+  - first:
+      213: -3019816935764776367
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_56
+  - first:
+      213: 5409472474941810296
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_57
+  - first:
+      213: -1391830867417430404
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_58
+  - first:
+      213: -5588183547345794214
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_59
+  - first:
+      213: 255791675088964901
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_60
+  - first:
+      213: -2931775201064743398
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_61
+  - first:
+      213: -3475774144988223470
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_62
+  - first:
+      213: 5249552643721477740
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_63
+  - first:
+      213: -5614433763695220885
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_64
+  - first:
+      213: -6216569469023293586
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_65
+  - first:
+      213: -7253803648866269031
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_66
+  - first:
+      213: -520021506500725061
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_67
+  - first:
+      213: 7671326073965668782
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_68
+  - first:
+      213: -7602662191397568146
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_69
+  - first:
+      213: -3665926067420911955
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_70
+  - first:
+      213: 4316454767158345732
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_71
+  - first:
+      213: -6159714542654712271
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_72
+  - first:
+      213: -3652514203138317303
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_73
+  - first:
+      213: 7271829372910082137
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_74
+  - first:
+      213: 5483954572973986020
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_75
+  - first:
+      213: 265604117704614305
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_76
+  - first:
+      213: 3175971784649224415
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_77
+  - first:
+      213: 3021685931284657083
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_78
+  - first:
+      213: 6123531647923941128
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_79
+  - first:
+      213: -4846894423247362282
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_80
+  - first:
+      213: 8067486416286901455
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_81
+  - first:
+      213: 6245709187900148480
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_82
+  - first:
+      213: 5633490188453491514
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_83
+  - first:
+      213: -3564986842281204116
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_84
+  - first:
+      213: 6232038044370153039
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_85
+  - first:
+      213: 4389549047871286985
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_86
+  - first:
+      213: -8068528609631301694
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_87
+  - first:
+      213: -9192754809369229002
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_88
+  - first:
+      213: 3115384383087139716
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_89
+  - first:
+      213: 414987063878596527
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_90
+  - first:
+      213: -6684924463200531451
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_91
+  - first:
+      213: 2227379016094236103
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_92
+  - first:
+      213: -413666363584718275
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_93
+  - first:
+      213: -5149991050042112451
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_94
+  - first:
+      213: 2565741356184316044
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_95
+  - first:
+      213: 5957171053171631742
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_96
+  - first:
+      213: -7699163736838491091
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_97
+  - first:
+      213: 2416363365642656656
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_98
+  - first:
+      213: -4642715202095475744
+    second: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c22f3a441f7b50800000000000000
+      internalID: 6593010688613073815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b0b5e1976753b0800000000000000
+      internalID: -5523832541625141469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e0f02592181c60800000000000000
+      internalID: 7788995987249357160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f83a64998f3e60800000000000000
+      internalID: 7944219538235127097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7002ed6b13639430800000000000000
+      internalID: 3788480681007513722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce025d87cc1dd40800000000000000
+      internalID: 5607487830396824757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04be328b27e3bd0800000000000000
+      internalID: -2648553395645103956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99752d33992db9220800000000000000
+      internalID: 2493818374120953753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea553eb0a7d2dca70800000000000000
+      internalID: 8848778845061600686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13ee3b73a515e30800000000000000
+      internalID: 4490469498753528288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246335ce6de2ab350800000000000000
+      internalID: 6033186151438956098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09912d89833d2e80800000000000000
+      internalID: -8201842680500479729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b91047ecae0eaa0800000000000000
+      internalID: -6133644520048190644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909cf51102b5e2d0800000000000000
+      internalID: -3249995838344359792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad87d4a0311b4630800000000000000
+      internalID: 3912239601923100076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe0f2131c5eefd0800000000000000
+      internalID: -2310808321802572861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c5efc7ade63f60800000000000000
+      internalID: 8013853891955638667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639eea820df895f20800000000000000
+      internalID: 3411916316908382518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbab5acbc8a64b50800000000000000
+      internalID: 6577129899048020944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e828d6baac7b10800000000000000
+      internalID: 1980645638423505025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ff478ef3188810800000000000000
+      internalID: 1767684837655705224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4dd298a669c920800000000000000
+      internalID: 3011050700078403349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f422875b3c92d0800000000000000
+      internalID: -3270673982346168296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fecb38d17fa6550800000000000000
+      internalID: 6155003546891513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74addab4447f7e800800000000000000
+      internalID: 641753344623106631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f25b4fa4bcc950800000000000000
+      internalID: 6470745429600564051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec241385dfb8950800000000000000
+      internalID: 6452529446363778728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c5409b2607cca0800000000000000
+      internalID: -5996817594646673327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ade82445b91330800000000000000
+      internalID: 3682173474701157351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef7aa566558a8ee0800000000000000
+      internalID: -1258046539777277981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b8cad7d43844b0800000000000000
+      internalID: -5456052846866155043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d098a312677fc760800000000000000
+      internalID: 7480328769205997779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b05a805e19407c0800000000000000
+      internalID: -4105996547376477378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d184b4b869f403f60800000000000000
+      internalID: 8011991245092767773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54512254a36b144a0800000000000000
+      internalID: -6610802416618957499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded8b85a1cd5e29f0800000000000000
+      internalID: -491352223049347603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a54909729e5730800000000000000
+      internalID: 3989787368441095441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bc4505b1197710800000000000000
+      internalID: 1691402604229997188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b38288569b6580800000000000000
+      internalID: -8832800937266138816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465ac62273bcdd60800000000000000
+      internalID: 7916399547868927566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2f1323f64ee390800000000000000
+      internalID: -7787208695596766375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ddbc3b6a7df0c0800000000000000
+      internalID: -4540338248320428227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27043d158d34518e0800000000000000
+      internalID: -1723396686034550670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66154ccfead678300800000000000000
+      internalID: 254292502302183782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd09a3381ab21e0800000000000000
+      internalID: -2221504406181848162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab8ae11081f2df0800000000000000
+      internalID: -202917065119974797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c6e9c47a79a040800000000000000
+      internalID: 4659389931513626842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2b1738edc61b80800000000000000
+      internalID: -8424319655709299324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3927fad7cd2110800000000000000
+      internalID: 1237865215860227855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcff9345f5b07610800000000000000
+      internalID: 1616992331232181436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea275fddfd80f60800000000000000
+      internalID: 8000890882422386318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65e58a8104d0240800000000000000
+      internalID: 4759530855848629955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb0a3fce2292640800000000000000
+      internalID: 5055610457795116100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fff0820863ef830800000000000000
+      internalID: 4106779834264321792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10a90b91ccc6980800000000000000
+      internalID: -8544229982319541824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c760089b18e56f0800000000000000
+      internalID: -693974658851636122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a28012f747716d0800000000000000
+      internalID: -3019816935764776367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876e82b2e8e421b40800000000000000
+      internalID: 5409472474941810296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76092843393face0800000000000000
+      internalID: -1391830867417430404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b85c0dba8c272b0800000000000000
+      internalID: -5588183547345794214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0e2a5c21cc8300800000000000000
+      internalID: 255791675088964901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8c33ecfd3057d0800000000000000
+      internalID: -2931775201064743398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186d70a4d193cfc0800000000000000
+      internalID: -3475774144988223470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3bbee0582ad840800000000000000
+      internalID: 5249552643721477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67acfb0d368512b0800000000000000
+      internalID: -5614433763695220885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe355310f4ab9a0800000000000000
+      internalID: -6216569469023293586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c4ee7300555b90800000000000000
+      internalID: -7253803648866269031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f57de13388c8f0800000000000000
+      internalID: -520021506500725061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96aea7b66067a60800000000000000
+      internalID: 7671326073965668782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61847e740bed7690800000000000000
+      internalID: -7602662191397568146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da628822aa3002dc0800000000000000
+      internalID: -3665926067420911955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c38dbdb027eb30800000000000000
+      internalID: 4316454767158345732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136124f424c448aa0800000000000000
+      internalID: -6159714542654712271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9042fd02fa9af4dc0800000000000000
+      internalID: -3652514203138317303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589e8f694abae460800000000000000
+      internalID: 7271829372910082137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e05e7ef0abea1c40800000000000000
+      internalID: 5483954572973986020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12aaea98d9fa300800000000000000
+      internalID: 265604117704614305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03ea8d281531c20800000000000000
+      internalID: 3175971784649224415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3740d485f2fe920800000000000000
+      internalID: 3021685931284657083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f6e5507972bf450800000000000000
+      internalID: 6123531647923941128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e486b33f5cbcb0800000000000000
+      internalID: -4846894423247362282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e119f62875ff60800000000000000
+      internalID: 8067486416286901455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b8e2b4a673da650800000000000000
+      internalID: 6245709187900148480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333b689a7d2e2e40800000000000000
+      internalID: 5633490188453491514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6623e4ea5f968ec0800000000000000
+      internalID: -3564986842281204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e27652595ac7650800000000000000
+      internalID: 6232038044370153039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea58a2a9fcaec30800000000000000
+      internalID: 4389549047871286985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf89da7af3d60090800000000000000
+      internalID: -8068528609631301694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398848c436cc6080800000000000000
+      internalID: -9192754809369229002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b55b427911c3b20800000000000000
+      internalID: 3115384383087139716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bdd0398452c500800000000000000
+      internalID: 414987063878596527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0d947e906a33a0800000000000000
+      internalID: -6684924463200531451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb47af96d39ee10800000000000000
+      internalID: 2227379016094236103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a510f42ac524af0800000000000000
+      internalID: -413666363584718275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d368cc10d6e8788b0800000000000000
+      internalID: -5149991050042112451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8825e86b285b9320800000000000000
+      internalID: 2565741356184316044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e88aa28f1ca250800000000000000
+      internalID: 5957171053171631742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243c2e8f53172590800000000000000
+      internalID: -7699163736838491091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd569bda5a88120800000000000000
+      internalID: 2416363365642656656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e31bc13f13c19fb0800000000000000
+      internalID: -4642715202095475744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_0: 6593010688613073815
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_1: -5523832541625141469
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_10: 6033186151438956098
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_11: -8201842680500479729
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_12: -6133644520048190644
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_13: -3249995838344359792
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_14: 3912239601923100076
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_15: -2310808321802572861
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_16: 8013853891955638667
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_17: 3411916316908382518
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_18: 6577129899048020944
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_19: 1980645638423505025
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_2: 7788995987249357160
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_20: 1767684837655705224
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_21: 3011050700078403349
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_22: -3270673982346168296
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_23: 6155003546891513689
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_24: 641753344623106631
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_25: 6470745429600564051
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_26: 6452529446363778728
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_27: -5996817594646673327
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_28: 3682173474701157351
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_29: -1258046539777277981
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_3: 7944219538235127097
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_30: -5456052846866155043
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_31: 7480328769205997779
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_32: -4105996547376477378
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_33: 8011991245092767773
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_34: -6610802416618957499
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_35: -491352223049347603
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_36: 3989787368441095441
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_37: 1691402604229997188
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_38: -8832800937266138816
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_39: 7916399547868927566
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_4: 3788480681007513722
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_40: -7787208695596766375
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_41: -4540338248320428227
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_42: -1723396686034550670
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_43: 254292502302183782
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_44: -2221504406181848162
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_45: -202917065119974797
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_46: 4659389931513626842
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_47: -8424319655709299324
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_48: 1237865215860227855
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_49: 1616992331232181436
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_5: 5607487830396824757
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_50: 8000890882422386318
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_51: 4759530855848629955
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_52: 5055610457795116100
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_53: 4106779834264321792
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_54: -8544229982319541824
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_55: -693974658851636122
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_56: -3019816935764776367
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_57: 5409472474941810296
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_58: -1391830867417430404
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_59: -5588183547345794214
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_6: -2648553395645103956
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_60: 255791675088964901
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_61: -2931775201064743398
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_62: -3475774144988223470
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_63: 5249552643721477740
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_64: -5614433763695220885
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_65: -6216569469023293586
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_66: -7253803648866269031
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_67: -520021506500725061
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_68: 7671326073965668782
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_69: -7602662191397568146
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_7: 2493818374120953753
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_70: -3665926067420911955
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_71: 4316454767158345732
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_72: -6159714542654712271
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_73: -3652514203138317303
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_74: 7271829372910082137
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_75: 5483954572973986020
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_76: 265604117704614305
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_77: 3175971784649224415
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_78: 3021685931284657083
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_79: 6123531647923941128
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_8: 8848778845061600686
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_80: -4846894423247362282
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_81: 8067486416286901455
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_82: 6245709187900148480
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_83: 5633490188453491514
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_84: -3564986842281204116
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_85: 6232038044370153039
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_86: 4389549047871286985
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_87: -8068528609631301694
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_88: -9192754809369229002
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_89: 3115384383087139716
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_9: 4490469498753528288
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_90: 414987063878596527
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_91: -6684924463200531451
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_92: 2227379016094236103
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_93: -413666363584718275
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_94: -5149991050042112451
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_95: 2565741356184316044
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_96: 5957171053171631742
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_97: -7699163736838491091
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_98: 2416363365642656656
+      2DPIXX - Modern School - Topdown -  Janitor Addon Tileset (128x128)_99: -4642715202095475744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
