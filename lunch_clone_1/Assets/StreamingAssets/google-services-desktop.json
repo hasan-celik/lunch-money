@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111832701440",
+    "project_id": "lunchmoney-d44a6",
+    "storage_bucket": "lunchmoney-d44a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111832701440:android:5c6f7d4bcd351969ce96e5",
+        "android_client_info": {
+          "package_name": "com.GummyGames.lunchMoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_qou834HproQsczI5ZyJYy30kuaDkn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

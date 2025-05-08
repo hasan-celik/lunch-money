@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - FogOfWar
+  - Yakinlik
+  - task
+  - InteractButton
+  - RoleUI
+  - Dead
+  - ColorButton
+  - playerUsername
+  - Bully
+  - GameManager
+  - LoseCanvas
+  - WinCanvas
+  - Slider
+  - RoleImage
+  - rightAnswer
+  - MainSchoolBell
+  - car
+  - CopySchoolBell
+  - Grass
+  - Wood
+  - Cosmetic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Map
+  - Dead
+  - Player
+  - DBounds
+  - task
+  - bells
+  - Surfaces
+  - car
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Secondary
+    uniqueID: 3655585593
+    locked: 0

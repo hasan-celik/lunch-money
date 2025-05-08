@@ -1,0 +1,2640 @@
+fileFormatVersion: 2
+guid: ffad3b1fd21ad3bcda566b7018fae118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330086112996976688
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_0
+  - first:
+      213: -4910063874456938300
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_1
+  - first:
+      213: 3486749018809000998
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_2
+  - first:
+      213: 1481955231471149459
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_3
+  - first:
+      213: -6159486845073373084
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_4
+  - first:
+      213: 6550326053151707418
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_5
+  - first:
+      213: -1996724178350944366
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_6
+  - first:
+      213: -8420728920925376965
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_7
+  - first:
+      213: 2782358634310909492
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_8
+  - first:
+      213: -3377311942670186740
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_9
+  - first:
+      213: 1178648676599018742
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_10
+  - first:
+      213: -3687281684266744078
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_11
+  - first:
+      213: 165662105645693873
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_12
+  - first:
+      213: 1899101114012417229
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_13
+  - first:
+      213: -7689850798432889657
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_14
+  - first:
+      213: -1431993203348928794
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_15
+  - first:
+      213: -8252062455866021349
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_16
+  - first:
+      213: -5692162728566636190
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_17
+  - first:
+      213: 8066381066729280289
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_18
+  - first:
+      213: -8346331692589615000
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_19
+  - first:
+      213: 2861950651674283020
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_20
+  - first:
+      213: 7764378059954652330
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_21
+  - first:
+      213: -248440032077495262
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_22
+  - first:
+      213: -5745795522468533604
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_23
+  - first:
+      213: 6602935414145018188
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_24
+  - first:
+      213: -2700818314784783315
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_25
+  - first:
+      213: 993866200874472176
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_26
+  - first:
+      213: -3566354288832828612
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_27
+  - first:
+      213: 3422394312260639413
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_28
+  - first:
+      213: 5508613610407533885
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_29
+  - first:
+      213: 8138473070295788813
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_30
+  - first:
+      213: -3730173167702938445
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_31
+  - first:
+      213: 2496093101842848048
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_32
+  - first:
+      213: 839292621785277960
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_33
+  - first:
+      213: 6914859830529269013
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_34
+  - first:
+      213: 1559105229273337676
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_35
+  - first:
+      213: 3508746774681603478
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_36
+  - first:
+      213: 4422248336080528392
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_37
+  - first:
+      213: 5886807565349941152
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_38
+  - first:
+      213: -916964540766179772
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_39
+  - first:
+      213: 3333380170975921572
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_40
+  - first:
+      213: 2725598316195210357
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_41
+  - first:
+      213: -2942896586930236452
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_42
+  - first:
+      213: 121015814342297088
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_43
+  - first:
+      213: 5529282360751136019
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_44
+  - first:
+      213: -58122021037198982
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_45
+  - first:
+      213: -5002029524466957673
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_46
+  - first:
+      213: 6849482593611746335
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_47
+  - first:
+      213: -3901857829062668438
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_48
+  - first:
+      213: -191237522665186280
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_49
+  - first:
+      213: -3737367400290425843
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_50
+  - first:
+      213: 7948347221793254981
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_51
+  - first:
+      213: -563882240371335881
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_52
+  - first:
+      213: 8056138432227180713
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_53
+  - first:
+      213: 3564099736514897108
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_54
+  - first:
+      213: -3721787685848666596
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_55
+  - first:
+      213: -8198779416869983066
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_56
+  - first:
+      213: -470914665631258556
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_57
+  - first:
+      213: -412003257343406098
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_58
+  - first:
+      213: 1618525380022289186
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_59
+  - first:
+      213: -3831675141658257860
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_60
+  - first:
+      213: -67874641014587232
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_61
+  - first:
+      213: 5794669775310177637
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_62
+  - first:
+      213: 2099746399933988630
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_63
+  - first:
+      213: 3818274993020097965
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_64
+  - first:
+      213: -3025222509175803780
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_65
+  - first:
+      213: 9175424386567744423
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_66
+  - first:
+      213: -895330228835619378
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_67
+  - first:
+      213: 5120565289088703683
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_68
+  - first:
+      213: -2886026220984794519
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_69
+  - first:
+      213: 4350071985780949261
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_70
+  - first:
+      213: -1370919551371891671
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_71
+  - first:
+      213: 4325701991443204538
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_72
+  - first:
+      213: 5005777725366882088
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_73
+  - first:
+      213: 1040627174269911688
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_74
+  - first:
+      213: 7565714968559428865
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_75
+  - first:
+      213: 5111602609143343083
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_76
+  - first:
+      213: 4013298574192980322
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_77
+  - first:
+      213: 7567023175082354197
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_78
+  - first:
+      213: 4536709360992285177
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_79
+  - first:
+      213: 2816448653925505497
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_80
+  - first:
+      213: 3997807383620155865
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_81
+  - first:
+      213: -9091539097680079665
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_82
+  - first:
+      213: -438589737603033893
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_83
+  - first:
+      213: -1870472859571166529
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_84
+  - first:
+      213: -9169740830001213636
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_85
+  - first:
+      213: 5814552385751691844
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_86
+  - first:
+      213: 3039374448135414894
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_87
+  - first:
+      213: 1116995949291664258
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_88
+  - first:
+      213: -6916098419334276660
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_89
+  - first:
+      213: -8784724241464393358
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_90
+  - first:
+      213: -8131792275960870816
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_91
+  - first:
+      213: 4393511183796022154
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_92
+  - first:
+      213: -4351599127787529334
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_93
+  - first:
+      213: 1481577818241974641
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_94
+  - first:
+      213: 3808486784621360307
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_95
+  - first:
+      213: -32845151379322558
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_96
+  - first:
+      213: 1475938659987411868
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_97
+  - first:
+      213: 5436208987061317873
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_98
+  - first:
+      213: 9135502016329728715
+    second: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03861d218cbf8d750800000000000000
+      internalID: 6330086112996976688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8148abbe2fbdbb0800000000000000
+      internalID: -4910063874456938300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246d0f42cb636030800000000000000
+      internalID: 3486749018809000998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391aed86e66f09410800000000000000
+      internalID: 1481955231471149459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c5b8495b158aa0800000000000000
+      internalID: -6159486845073373084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11181917de67ea50800000000000000
+      internalID: 6550326053151707418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f45fa50f53a44e0800000000000000
+      internalID: -1996724178350944366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e626e49af832b80800000000000000
+      internalID: -8420728920925376965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb7d3bf6cec9620800000000000000
+      internalID: 2782358634310909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0785719ea06121d0800000000000000
+      internalID: -3377311942670186740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43ba30ab66b5010800000000000000
+      internalID: 1178648676599018742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f60a7e18d424dcc0800000000000000
+      internalID: -3687281684266744078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb31cfaecc8c4200800000000000000
+      internalID: 165662105645693873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc324db666fa5a10800000000000000
+      internalID: 1899101114012417229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c457aff079284590800000000000000
+      internalID: -7689850798432889657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60d91c4c9802ce0800000000000000
+      internalID: -1431993203348928794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aa4cdeae8ca7d80800000000000000
+      internalID: -8252062455866021349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261411028206101b0800000000000000
+      internalID: -5692162728566636190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d559b7da81ff60800000000000000
+      internalID: 8066381066729280289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687c9ddb8fdb2c80800000000000000
+      internalID: -8346331692589615000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4eb554f0b7b720800000000000000
+      internalID: 2861950651674283020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40f6545bc90cb60800000000000000
+      internalID: 7764378059954652330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224c80c6b1d5d8cf0800000000000000
+      internalID: -248440032077495262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aab333a65d240b0800000000000000
+      internalID: -5745795522468533604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49e5fa76c652ab50800000000000000
+      internalID: 6602935414145018188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2442606d04c48ad0800000000000000
+      internalID: -2700818314784783315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d3614b0ceacd00800000000000000
+      internalID: 993866200874472176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3badee6ba3c18ec0800000000000000
+      internalID: -3566354288832828612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5badc9f8e79ce7f20800000000000000
+      internalID: 3422394312260639413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d193d84e6827c40800000000000000
+      internalID: 5508613610407533885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2011532aa1f070800000000000000
+      internalID: 8138473070295788813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6f5c6443cb3cc0800000000000000
+      internalID: -3730173167702938445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03955a58377e3a220800000000000000
+      internalID: 2496093101842848048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8062e185134c5ab00800000000000000
+      internalID: 839292621785277960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d905e116486ff50800000000000000
+      internalID: 6914859830529269013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8a4e02fd03a510800000000000000
+      internalID: 1559105229273337676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc1b7f99291b030800000000000000
+      internalID: 3508746774681603478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80464ac7e6bfe5d30800000000000000
+      internalID: 4422248336080528392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe3c18a4422b150800000000000000
+      internalID: 5886807565349941152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea004cb994643f0800000000000000
+      internalID: -916964540766179772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c950ca9b824e20800000000000000
+      internalID: 3333380170975921572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e73d4a3543d520800000000000000
+      internalID: 2725598316195210357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35055752bb827d0800000000000000
+      internalID: -2942896586930236452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c312fd3feda100800000000000000
+      internalID: 121015814342297088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d976ff205fbbc40800000000000000
+      internalID: 5529282360751136019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71337e6452813ff0800000000000000
+      internalID: -58122021037198982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792812e36a8359ab0800000000000000
+      internalID: -5002029524466957673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c0377f0204e0f50800000000000000
+      internalID: 6849482593611746335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f84a63af0d9d9c0800000000000000
+      internalID: -3901857829062668438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd0d18c76985df0800000000000000
+      internalID: -191237522665186280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04609e9624322cc0800000000000000
+      internalID: -3737367400290425843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2372afa33e4e60800000000000000
+      internalID: 7948347221793254981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd3870710bc28f0800000000000000
+      internalID: -563882240371335881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0064a88372dcf60800000000000000
+      internalID: 8056138432227180713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a803b3d9367130800000000000000
+      internalID: 3564099736514897108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e219f81dd895cc0800000000000000
+      internalID: -3721787685848666596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2ea13f85183e80800000000000000
+      internalID: -8198779416869983066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e68b4b99f679f0800000000000000
+      internalID: -470914665631258556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0eb76835484af0800000000000000
+      internalID: -412003257343406098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ce200248267610800000000000000
+      internalID: 1618525380022289186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d3ce72c723dac0800000000000000
+      internalID: -3831675141658257860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a08115af5cde0ff0800000000000000
+      internalID: -67874641014587232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5654e0c857dca6050800000000000000
+      internalID: 5794669775310177637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f787ec93cc32d10800000000000000
+      internalID: 2099746399933988630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da558b540ec3df430800000000000000
+      internalID: 3818274993020097965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707f0ef7204406d0800000000000000
+      internalID: -3025222509175803780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba3d8bdd7a55f70800000000000000
+      internalID: 9175424386567744423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd659986e52393f0800000000000000
+      internalID: -895330228835619378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd3512007ef0740800000000000000
+      internalID: 5120565289088703683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620dbd5176c2f7d0800000000000000
+      internalID: -2886026220984794519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010ad36c6f8e5c30800000000000000
+      internalID: 4350071985780949261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c27d47ee389fce0800000000000000
+      internalID: -1370919551371891671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90c2cea0bf70c30800000000000000
+      internalID: 4325701991443204538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4e09c158187540800000000000000
+      internalID: 5005777725366882088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8820af9c6ec017e00800000000000000
+      internalID: 1040627174269911688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10527d4dda1def860800000000000000
+      internalID: 7565714968559428865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e2f69d7f00f640800000000000000
+      internalID: 5111602609143343083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ba543ac912b730800000000000000
+      internalID: 4013298574192980322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516aee56c77730960800000000000000
+      internalID: 7567023175082354197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f172279021a5fe30800000000000000
+      internalID: 4536709360992285177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95b59e029061720800000000000000
+      internalID: 2816448653925505497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fc1552a01b7730800000000000000
+      internalID: 3997807383620155865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc414351c5d54d180800000000000000
+      internalID: -9091539097680079665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41a0815f0d9e9f0800000000000000
+      internalID: -438589737603033893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2604b28deba06e0800000000000000
+      internalID: -1870472859571166529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc1696c498eb080800000000000000
+      internalID: -9169740830001213636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44231a8869071b050800000000000000
+      internalID: 5814552385751691844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a28015f60e2a20800000000000000
+      internalID: 3039374448135414894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837415d5ed508f00800000000000000
+      internalID: 1116995949291664258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc990f371251500a0800000000000000
+      internalID: -6916098419334276660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27180c988d3661680800000000000000
+      internalID: -8784724241464393358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06846145202162f80800000000000000
+      internalID: -8131792275960870816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2ed2d423e8fc30800000000000000
+      internalID: 4393511183796022154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b135726a30c93c0800000000000000
+      internalID: -4351599127787529334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171496b0d2f9f8410800000000000000
+      internalID: 1481577818241974641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b430296d867ad430800000000000000
+      internalID: 3808486784621360307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490173428f4b8ff0800000000000000
+      internalID: -32845151379322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d0d234669b7410800000000000000
+      internalID: 1475938659987411868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0739e754b417b40800000000000000
+      internalID: 5436208987061317873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c2309ea2d7ce70800000000000000
+      internalID: 9135502016329728715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_0: 6330086112996976688
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_1: -4910063874456938300
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_10: 1178648676599018742
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_11: -3687281684266744078
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_12: 165662105645693873
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_13: 1899101114012417229
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_14: -7689850798432889657
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_15: -1431993203348928794
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_16: -8252062455866021349
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_17: -5692162728566636190
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_18: 8066381066729280289
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_19: -8346331692589615000
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_2: 3486749018809000998
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_20: 2861950651674283020
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_21: 7764378059954652330
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_22: -248440032077495262
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_23: -5745795522468533604
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_24: 6602935414145018188
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_25: -2700818314784783315
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_26: 993866200874472176
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_27: -3566354288832828612
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_28: 3422394312260639413
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_29: 5508613610407533885
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_3: 1481955231471149459
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_30: 8138473070295788813
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_31: -3730173167702938445
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_32: 2496093101842848048
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_33: 839292621785277960
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_34: 6914859830529269013
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_35: 1559105229273337676
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_36: 3508746774681603478
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_37: 4422248336080528392
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_38: 5886807565349941152
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_39: -916964540766179772
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_4: -6159486845073373084
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_40: 3333380170975921572
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_41: 2725598316195210357
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_42: -2942896586930236452
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_43: 121015814342297088
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_44: 5529282360751136019
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_45: -58122021037198982
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_46: -5002029524466957673
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_47: 6849482593611746335
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_48: -3901857829062668438
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_49: -191237522665186280
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_5: 6550326053151707418
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_50: -3737367400290425843
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_51: 7948347221793254981
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_52: -563882240371335881
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_53: 8056138432227180713
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_54: 3564099736514897108
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_55: -3721787685848666596
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_56: -8198779416869983066
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_57: -470914665631258556
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_58: -412003257343406098
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_59: 1618525380022289186
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_6: -1996724178350944366
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_60: -3831675141658257860
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_61: -67874641014587232
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_62: 5794669775310177637
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_63: 2099746399933988630
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_64: 3818274993020097965
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_65: -3025222509175803780
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_66: 9175424386567744423
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_67: -895330228835619378
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_68: 5120565289088703683
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_69: -2886026220984794519
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_7: -8420728920925376965
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_70: 4350071985780949261
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_71: -1370919551371891671
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_72: 4325701991443204538
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_73: 5005777725366882088
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_74: 1040627174269911688
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_75: 7565714968559428865
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_76: 5111602609143343083
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_77: 4013298574192980322
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_78: 7567023175082354197
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_79: 4536709360992285177
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_8: 2782358634310909492
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_80: 2816448653925505497
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_81: 3997807383620155865
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_82: -9091539097680079665
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_83: -438589737603033893
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_84: -1870472859571166529
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_85: -9169740830001213636
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_86: 5814552385751691844
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_87: 3039374448135414894
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_88: 1116995949291664258
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_89: -6916098419334276660
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_9: -3377311942670186740
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_90: -8784724241464393358
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_91: -8131792275960870816
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_92: 4393511183796022154
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_93: -4351599127787529334
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_94: 1481577818241974641
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_95: 3808486784621360307
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_96: -32845151379322558
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_97: 1475938659987411868
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_98: 5436208987061317873
+      2DPIXX - Modern School - Topdown -  Base Tileset (128x128)_99: 9135502016329728715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
