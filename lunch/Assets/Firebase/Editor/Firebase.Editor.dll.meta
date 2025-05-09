@@ -3,7 +3,7 @@ guid: 9f2edbf81053418f879076c05f816dc2
 labels:
 - gvh
 - gvh_targets-editor
-- gvh_version-12.2.0
+- gvh_version-12.8.0
 - gvhp_exportpath-Firebase/Editor/Firebase.Editor.dll
 PluginImporter:
   externalObjects: {}
@@ -21,7 +21,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        Exclude Editor: 0
+        Exclude Editor: 1
         Exclude Linux64: 1
         Exclude OSXUniversal: 1
         Exclude Win: 1
