@@ -96,8 +96,8 @@ This project was developed under the TÜBİTAK 2209-A program to create an **edu
 
 > This project is a student research project. Please cite the source if used.
 
-- 📧 Developer: **[Hasan Hüseyin Çelik, Elif Sude Alarçin, Furkan Tuna]**
-- 🏫 Institution: **[Isparta Uygulamalı bılımler Üniversitesi/TBMYO]**
+- 📧 Developer: **Hasan Hüseyin Çelik, Elif Sude Alarçin, Furkan Tuna**
+- 🏫 Institution: **Isparta Uygulamalı bılımler Üniversitesi/TBMYO**
 - 📅 Year: 2024/2025
 
 ---
@@ -207,8 +207,8 @@ Bu proje, TÜBİTAK 2209-A programı kapsamında geliştirilmiş olup, ilkokul �
 
 > Bu proje bir öğrenci araştırma projesidir. Kullanım durumunda kaynak gösterilmelidir.
 
-- 📧 Geliştirici: **[Hasan Hüseyin Çelik, Elif Sude Alarçin, Furkan Tuna]**
-- 🏫 Kurum: **[Isparta Uygulamalı bılımler Üniversitesi/TBMYO]**
+- 📧 Geliştirici: **Hasan Hüseyin Çelik, Elif Sude Alarçin, Furkan Tuna**
+- 🏫 Kurum: **Isparta Uygulamalı bılımler Üniversitesi/TBMYO**
 - 📅 Yıl: 2024/2025
 
 ---
